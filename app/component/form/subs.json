@@ -1,0 +1,27 @@
+{
+	"name":"default",
+	"form":
+	{
+		"method":"post",
+		"name":"default"
+	},
+	"input":
+	{
+		"class":"form-in",
+		"type":"mail",
+		"placeholder":"Your mail",
+		"name":"mail",
+		"required":"required",
+		"pattern":"@mail@"
+	},
+	"button":
+	{
+		"value":"Подписаться",
+		"onclick":"submit",
+		"class":"btn-success"
+	},
+	"button2":
+	{
+		"value":"@test@"
+	}
+}

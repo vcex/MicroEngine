@@ -1,0 +1,1 @@
+<?=$vardata['form']::createForm('admin/login')?>

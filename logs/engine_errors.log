@@ -1,0 +1,113 @@
+
+
+		<error_message>
+			<error_time>2016.04.14 09:14:44</error_time>
+			<error_file>/home/strannyi_tip/0x00-dev/engine/app/controller/Read.php</error_file>
+			<error_line>100</error_line>
+			<error_num>2048</error_num>
+			<error_str>Declaration of Read::action_index() should be compatible with Controller::action_index($param = NULL)</error_str>
+		</error_message>
+
+		<error_message>
+			<error_time>2016.04.14 09:56:44</error_time>
+			<error_file>/home/strannyi_tip/0x00-dev/engine/app/controller/Read.php</error_file>
+			<error_line>0</error_line>
+			<error_num>2048</error_num>
+			<error_str>Declaration of Read::action_index() should be compatible with Controller::action_index($param = NULL)</error_str>
+		</error_message>
+
+		<error_message>
+			<error_time>2016.04.14 09:06:45</error_time>
+			<error_file>/home/strannyi_tip/0x00-dev/engine/app/controller/Read.php</error_file>
+			<error_line>107</error_line>
+			<error_num>2048</error_num>
+			<error_str>Declaration of Read::action_index() should be compatible with Controller::action_index($param = NULL)</error_str>
+		</error_message>
+
+		<error_message>
+			<error_time>2016.04.14 09:42:51</error_time>
+			<error_file>/home/strannyi_tip/0x00-dev/engine/app/controller/Read.php</error_file>
+			<error_line>0</error_line>
+			<error_num>2048</error_num>
+			<error_str>Declaration of Read::action_index() should be compatible with Controller::action_index($param = NULL)</error_str>
+		</error_message>
+
+		<error_message>
+			<error_time>2016.04.14 09:50:51</error_time>
+			<error_file>/home/strannyi_tip/0x00-dev/engine/app/controller/Read.php</error_file>
+			<error_line>0</error_line>
+			<error_num>2048</error_num>
+			<error_str>Declaration of Read::action_index() should be compatible with Controller::action_index($param = NULL)</error_str>
+		</error_message>
+
+		<error_message>
+			<error_time>2016.04.14 09:46:52</error_time>
+			<error_file>/home/strannyi_tip/0x00-dev/engine/app/controller/Read.php</error_file>
+			<error_line>100</error_line>
+			<error_num>2048</error_num>
+			<error_str>Declaration of Read::action_index() should be compatible with Controller::action_index($param = NULL)</error_str>
+		</error_message>
+
+		<error_message>
+			<error_time>2016.04.14 09:18:53</error_time>
+			<error_file>/home/strannyi_tip/0x00-dev/engine/app/controller/Read.php</error_file>
+			<error_line>0</error_line>
+			<error_num>2048</error_num>
+			<error_str>Declaration of Read::action_index() should be compatible with Controller::action_index($param = NULL)</error_str>
+		</error_message>
+
+		<error_message>
+			<error_time>2016.04.14 09:53:53</error_time>
+			<error_file>/home/strannyi_tip/0x00-dev/engine/app/controller/Read.php</error_file>
+			<error_line>41</error_line>
+			<error_num>2048</error_num>
+			<error_str>Declaration of Read::action_index() should be compatible with Controller::action_index($param = NULL)</error_str>
+		</error_message>
+
+		<error_message>
+			<error_time>2016.04.14 09:09:54</error_time>
+			<error_file>/home/strannyi_tip/0x00-dev/engine/app/controller/Read.php</error_file>
+			<error_line>0</error_line>
+			<error_num>2048</error_num>
+			<error_str>Declaration of Read::action_index() should be compatible with Controller::action_index($param = NULL)</error_str>
+		</error_message>
+
+		<error_message>
+			<error_time>2016.04.14 09:00:55</error_time>
+			<error_file>/home/strannyi_tip/0x00-dev/engine/app/controller/Read.php</error_file>
+			<error_line>0</error_line>
+			<error_num>2048</error_num>
+			<error_str>Declaration of Read::action_index() should be compatible with Controller::action_index($param = NULL)</error_str>
+		</error_message>
+
+		<error_message>
+			<error_time>2016.04.14 09:14:55</error_time>
+			<error_file>/home/strannyi_tip/0x00-dev/engine/app/controller/Read.php</error_file>
+			<error_line>41</error_line>
+			<error_num>2048</error_num>
+			<error_str>Declaration of Read::action_index() should be compatible with Controller::action_index($param = NULL)</error_str>
+		</error_message>
+
+		<error_message>
+			<error_time>2016.04.14 09:00:56</error_time>
+			<error_file>/home/strannyi_tip/0x00-dev/engine/app/controller/Read.php</error_file>
+			<error_line>0</error_line>
+			<error_num>2048</error_num>
+			<error_str>Declaration of Read::action_index() should be compatible with Controller::action_index($param = NULL)</error_str>
+		</error_message>
+
+		<error_message>
+			<error_time>2016.04.14 09:19:56</error_time>
+			<error_file>/home/strannyi_tip/0x00-dev/engine/app/controller/Read.php</error_file>
+			<error_line>100</error_line>
+			<error_num>2048</error_num>
+			<error_str>Declaration of Read::action_index() should be compatible with Controller::action_index($param = NULL)</error_str>
+		</error_message>
+
+		<error_message>
+			<error_time>2016.04.14 09:43:57</error_time>
+			<error_file>/home/strannyi_tip/0x00-dev/engine/app/controller/Read.php</error_file>
+			<error_line>0</error_line>
+			<error_num>2048</error_num>
+			<error_str>Declaration of Read::action_index() should be compatible with Controller::action_index($param = NULL)</error_str>
+		</error_message>

@@ -1,0 +1,29 @@
+{
+	"name":"login",
+	"form":
+	{
+		"method":"post",
+		"name":"login"
+	},
+	"input":
+	{
+		"class":"form-in",
+		"type":"mail",
+		"placeholder":"Login",
+		"name":"login",
+		"required":"required"
+	},
+	"input2":
+	{
+		"class":"form-in",
+		"type":"password",
+		"placeholder":"Password",
+		"name":"password",
+		"required":"required"
+	},
+	"button":
+	{
+		"value":"Button4uk",
+		"onclick":"submit"
+	}
+}

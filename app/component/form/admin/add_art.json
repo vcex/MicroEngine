@@ -1,0 +1,27 @@
+{
+	"name":"add_art",
+	"form":
+	{
+		"method":"post",
+		"name":"add_art"
+	},
+	"input":
+	{
+		"class":"form-in",
+		"type":"text",
+		"placeholder":"Название",
+		"name":"title",
+		"required":"required"
+	},
+	"area":
+	{
+		"placeholder":"Текст записи",
+		"name":"text",
+		"required":"required"
+	},
+	"button":
+	{
+		"value":"Создать",
+		"onclick":"submit"
+	}
+}

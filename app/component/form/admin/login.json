@@ -1,0 +1,30 @@
+{
+	"name":"admin_login",
+	"form":
+	{
+		"method":"post",
+		"name":"login_center",
+		"action":"SubmitForm/login"
+	},
+	"input":
+	{
+		"class":"form-in",
+		"type":"text",
+		"placeholder":"Login",
+		"name":"login",
+		"required":"required"
+	},
+	"input2":
+	{
+		"class":"form-in",
+		"type":"password",
+		"placeholder":"Password",
+		"name":"password",
+		"required":"required"
+	},
+	"button":
+	{
+		"value":"Авторизоваться",
+		"onclick":"submit"
+	}
+}
