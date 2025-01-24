@@ -1,2 +1,6 @@
-#MicroEngine
-#Start work
+CGTN英语,https://0472.org/hls/cgtn.m3u8
+CGTN纪录,https://0472.org/hls/cgtnd.m3u8
+CGTN俄语,https://0472.org/hls/cgtne.m3u8
+CGTN法语,https://0472.org/hls/cgtnf.m3u8
+CGTN西语,https://0472.org/hls/cgtnx.m3u8
+CGTN阿语,https://0472.org/hls/cgtna.m3u8
